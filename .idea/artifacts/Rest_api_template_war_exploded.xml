@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Rest_api_template:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rest_api_template_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Rest_api_template/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Rest_api_template" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.ws.rs-api" />
+          <element id="library" level="project" name="jna-platform-win-4.4.0" />
+          <element id="library" level="project" name="jna-win-4.4.0" />
+          <element id="library" level="project" name="postgresql-42.2.2" />
+          <element id="library" level="project" name="waffle-jna-win-1.8.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

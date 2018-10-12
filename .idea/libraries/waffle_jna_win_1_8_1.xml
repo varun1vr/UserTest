@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="waffle-jna-win-1.8.1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_CONFIG_DIR$/jdbc-drivers/PostgreSQL/42.2.2/waffle-jna-win-1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
